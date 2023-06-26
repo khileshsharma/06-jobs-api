@@ -6,7 +6,7 @@ This is a RESTful API for managing job listings. It allows users to register, lo
 
 ## Live Demo
 
-  link : <https://jobs-api-v1-n0gv.onrender.com/>
+  link : updating soon
 
 ## Setup
 
